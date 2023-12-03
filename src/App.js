@@ -7,7 +7,7 @@ function App() {
 %20for%20sale">
         <img
             alt="Chat on WhatsApp"
-            src="/WhatsAppButtonGreenLarge.svg"
+            src="/chat-on-whatsapp/WhatsAppButtonGreenLarge.svg"
         />
       </a>
     </div>
